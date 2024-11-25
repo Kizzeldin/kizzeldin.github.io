@@ -1,0 +1,10 @@
+---
+title: "welcome"
+author: "Kabier Izzeldin"
+date: "2024-11-25"
+categories: [thoughts]
+image: "blog1.jpg"
+---
+# Welcome to my website
+
+---

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my page",
+    "section": "",
+    "text": "Kabier Izzeldin is a second year Epidemiology masters student at Dalla Lana School of Public Health."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome to my page",
+    "section": "",
+    "text": "Kabier Izzeldin is a second year Epidemiology masters student at Dalla Lana School of Public Health."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Welcome to my page",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto, Scarborough | Toronto, ON\nHBSc. Double major: Human Biology, Mental Health Studies | 2018-2021\nMinor: International development studies\nUofT Global Scholar\n\n\nUniversity of Toronto, St. George | Toronto, ON\nMPH Epidemiology | Dalla Lana School of Public Health | 2023-2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Welcome to my page",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "my thoughts :)",
+    "section": "",
+    "text": "welcome\n\n\n\nthoughts\n\n\n\n\n\n\n\nKabier Izzeldin\n\n\nNov 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome to my page",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto, Scarborough | Toronto, ON\nHBSc. Double major: Human Biology, Mental Health Studies | 2018-2021\nMinor: International development studies\nUofT Global Scholar\n\n\nUniversity of Toronto, St. George | Toronto, ON\nMPH Epidemiology | Dalla Lana School of Public Health | 2023-2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Welcome to my page",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "posts/today's thoughts/index.html",
+    "href": "posts/today's thoughts/index.html",
+    "title": "welcome",
+    "section": "",
+    "text": "Welcome to my website"
+  }
+]
